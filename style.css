@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1,
+  h2 {
+    font-weight: bold;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  button {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    border: 0;
+  }
+  
+  .error {
+    color: red;
+  }
